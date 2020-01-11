@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lychee.GoogleAPI.Sheet", "Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Sheet.csproj", "{7B888C26-6DF8-43AC-AD22-031CFDE09337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lychee.GoogleAPI.Test", "Lychee.GoogleAPITest\Lychee.GoogleAPI.Test.csproj", "{D00C9008-EEBE-4BCA-ABE5-62B18389ADDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lychee.GoogleAPI.Common", "Lychee.GoogleAPI.Common\Lychee.GoogleAPI.Common.csproj", "{1462007D-DAC0-466A-9557-D908290C0C14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B888C26-6DF8-43AC-AD22-031CFDE09337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B888C26-6DF8-43AC-AD22-031CFDE09337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B888C26-6DF8-43AC-AD22-031CFDE09337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B888C26-6DF8-43AC-AD22-031CFDE09337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00C9008-EEBE-4BCA-ABE5-62B18389ADDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00C9008-EEBE-4BCA-ABE5-62B18389ADDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00C9008-EEBE-4BCA-ABE5-62B18389ADDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00C9008-EEBE-4BCA-ABE5-62B18389ADDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1462007D-DAC0-466A-9557-D908290C0C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1462007D-DAC0-466A-9557-D908290C0C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1462007D-DAC0-466A-9557-D908290C0C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1462007D-DAC0-466A-9557-D908290C0C14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDE5D72-DE69-4009-8434-FAF559B9F4E4}
+	EndGlobalSection
+EndGlobal

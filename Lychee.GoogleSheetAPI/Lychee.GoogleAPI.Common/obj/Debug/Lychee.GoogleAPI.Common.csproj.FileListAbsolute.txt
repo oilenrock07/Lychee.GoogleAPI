@@ -1,0 +1,6 @@
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\bin\Debug\Lychee.GoogleAPI.Common.dll
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\bin\Debug\Lychee.GoogleAPI.Common.pdb
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\obj\Debug\Lychee.GoogleAPI.Common.csprojAssemblyReference.cache
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\obj\Debug\Lychee.GoogleAPI.Common.csproj.CoreCompileInputs.cache
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\obj\Debug\Lychee.GoogleAPI.Common.dll
+C:\Cawi\DEV\Lychee\Lychee.GoogleAPI\Lychee.GoogleSheetAPI\Lychee.GoogleAPI.Common\obj\Debug\Lychee.GoogleAPI.Common.pdb
